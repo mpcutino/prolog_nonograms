@@ -6,3 +6,7 @@ To use it, it is just necessary to add a json file with the board information. T
 
 The python code is provided only for visualization, as it is easier to understand an image than a Prolog standard output. I use the term output although Prolog 
 does not have and input/output concept. For this specific problem, it is just the way to indicating the predicate that it is used to save the final solutions.
+
+![Output example](imgs/example.png)
+Format: ![Alt Text](url)
+
