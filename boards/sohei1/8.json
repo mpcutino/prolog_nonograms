@@ -1,0 +1,16 @@
+{
+    "rows": [
+        [["black", 1]],
+        [["black", 3]],
+        [["black", 5]],
+        [["black", 2], ["amarillo", 1], ["black", 2]],
+        [["black", 5]]
+    ],
+    "cols": [
+        [["black", 3]], 
+        [["black", 4]], 
+        [["black", 3], ["amarillo", 1], ["black", 1]], 
+        [["black", 4]], 
+        [["black", 3]]
+    ]
+}

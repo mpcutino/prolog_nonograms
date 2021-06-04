@@ -1,0 +1,20 @@
+{
+    "rows": [
+        [["black", 4]],
+        [["black", 1], ["red", 2], ["black", 1]],
+        [["black", 1], ["red", 2], ["black", 1]],
+        [["black", 4]],
+        [["black", 1], ["amarillo", 2], ["black", 1]],
+        [["black", 1], ["amarillo", 2], ["black", 1]],
+        [["black", 4]],
+        [["black", 1], ["verde", 2], ["black", 1]],
+        [["black", 1], ["verde", 2], ["black", 1]],
+        [["black", 4]]
+    ],
+    "cols": [
+        [["black", 10]], 
+        [["black", 1], ["red", 2], ["black", 1], ["amarillo", 2], ["black", 1], ["verde", 2], ["black", 1]],
+        [["black", 1], ["red", 2], ["black", 1], ["amarillo", 2], ["black", 1], ["verde", 2], ["black", 1]],
+        [["black", 10]]
+    ]
+}

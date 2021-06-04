@@ -1,0 +1,22 @@
+{
+    "rows": [
+        [["red", 2], ["red", 2]],
+        [["red", 5]],
+        [["red", 1], ["amarillo", 1], ["red", 1]],
+        [["red", 5]],
+        [["red", 2], ["verde", 1], ["red", 2]],
+        [["verde", 1]],
+        [["verde", 1], ["verde", 1]],
+        [["verde", 1], ["verde", 3]],
+        [["verde", 4]],
+        [["verde", 2]]
+    ],
+    "cols": [
+        [["red", 2], ["red", 2], ["verde", 1]],
+        [["red", 5], ["verde", 2]],
+        [["red", 1], ["amarillo", 1], ["red", 1], ["verde", 6]],
+        [["red", 5], ["verde", 2]],
+        [["red", 2], ["red", 2], ["verde", 3]]
+        
+    ]
+}

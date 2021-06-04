@@ -1,0 +1,20 @@
+{
+    "rows": [
+        [["azul", 7]], 
+        [["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1]], 
+        [["azul", 2], ["amarillo", 3], ["azul", 2]], 
+        [["azul", 1], ["amarillo", 5], ["azul", 1]], 
+        [["azul", 2], ["amarillo", 3], ["azul", 2]], 
+        [["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1]], 
+        [["azul", 7]]
+    ],
+    "cols": [
+        [["azul", 7]], 
+        [["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1]], 
+        [["azul", 2], ["amarillo", 3], ["azul", 2]], 
+        [["azul", 1], ["amarillo", 5], ["azul", 1]], 
+        [["azul", 2], ["amarillo", 3], ["azul", 2]], 
+        [["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1], ["amarillo", 1], ["azul", 1]], 
+        [["azul", 7]]
+    ]
+}

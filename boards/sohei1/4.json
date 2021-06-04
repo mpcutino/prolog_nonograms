@@ -1,0 +1,14 @@
+{
+    "rows": [
+        [["azul", 3]],
+        [["azul", 5]],
+        [["verde", 5]]
+    ],
+    "cols": [
+        [["azul", 1], ["verde", 1]],
+        [["azul", 2], ["verde", 1]],
+        [["azul", 2], ["verde", 1]],
+        [["azul", 2], ["verde", 1]],
+        [["azul", 1], ["verde", 1]]
+    ]
+}

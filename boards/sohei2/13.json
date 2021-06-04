@@ -1,0 +1,26 @@
+{
+    "rows": [
+        [["orange", 6]],
+        [["red", 1], ["orange", 6], ["red", 1]],
+        [["orange", 2], ["red", 1], ["orange", 4], ["red", 1], ["orange", 2]],
+        [["orange", 3], ["red", 1], ["orange", 2], ["red", 1], ["orange", 3]],
+        [["orange", 3], ["red", 1], ["orange", 2], ["red", 1], ["orange", 3]],
+        [["orange", 3], ["red", 1], ["orange", 2], ["red", 1], ["orange", 3]],
+        [["orange", 3], ["red", 1], ["orange", 2], ["red", 1], ["orange", 3]],
+        [["orange", 2], ["red", 1], ["orange", 4], ["red", 1], ["orange", 2]],
+        [["red", 1], ["orange", 6], ["red", 1]],
+        [["orange", 6]]
+    ],
+    "cols": [
+        [["orange", 6]],
+        [["red", 1], ["orange", 6], ["red", 1]],
+        [["orange", 2], ["red", 1], ["orange", 4], ["red", 1], ["orange", 2]],
+        [["orange", 3], ["red", 4], ["orange", 3]],
+        [["orange", 10]],
+        [["orange", 10]],
+        [["orange", 3], ["red", 4], ["orange", 3]],
+        [["orange", 2], ["red", 1], ["orange", 4], ["red", 1], ["orange", 2]],
+        [["red", 1], ["orange", 6], ["red", 1]],
+        [["orange", 6]]
+    ]
+}
